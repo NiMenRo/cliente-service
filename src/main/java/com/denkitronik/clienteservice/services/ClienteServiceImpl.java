@@ -52,4 +52,5 @@ public class ClienteServiceImpl implements IClienteService{
 	public List<Region> findAllRegiones() {
 		return clienteDao.findAllRegiones();
 	}
+	//Comprobar workflow
 }
